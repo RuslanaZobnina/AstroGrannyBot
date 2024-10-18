@@ -1,0 +1,5 @@
+geopy==2.3.0
+python-telegram-bot==20.3
+pytz==2023.3
+swisseph==2.10.2
+timezonefinder==6.1.9
